@@ -1,7 +1,5 @@
 # 2022壬寅虎年贺卡
 
-![downloads](https://cranlogs.r-pkg.org/badges/docopt)
-
 参考自[少数派：Keynote 贺卡制作指南：不懂设计也能做一张春节贺卡](https://sspai.com/post/71224)
 
 使用软件：
